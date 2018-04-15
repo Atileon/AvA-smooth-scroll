@@ -1,0 +1,16 @@
+.content-1,.content-2{
+    width: 100vw;
+    height: 100vh;
+}
+.content-1{
+    background: rgb(15,15,15);
+
+}
+.content-2{
+    background: rgb(32,24,233);
+}
+.content-3{
+    width: 100vw;
+    height: 150vh;
+    background: red;
+}
